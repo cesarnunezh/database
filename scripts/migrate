@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+DB_URL=${DB_URL:-"postgresql://devuser:devpass@localhost:5432/devdb"}
+for f in schema/*.sql migrations/*.sql; do
+  if [ -f "$f" ]; then
+    psql "$DB_URL" -f "$f"
+  fi
+done
