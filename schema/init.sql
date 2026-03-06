@@ -26,7 +26,7 @@ INSERT INTO products (title, price, category, image, description, tag) VALUES
     'Sonic ANC-700',
     349,
     'audio',
-    'https://images.unsplash.com/photo-1518441902117-f0a7e90d4b6b?auto=format&fit=crop&w=900&q=60',
+    'https://businessheadsets.com/wp-content/uploads/36fcdf7af16938b16cc7e8be6c53560f.jpg',
     'Active noise cancellation with 40h battery.',
     'Hifi Audio'
   ),
@@ -34,7 +34,7 @@ INSERT INTO products (title, price, category, image, description, tag) VALUES
     'Vortex Pro Watch',
     499,
     'wearables',
-    'https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=60',
+    'https://media.easy-peasy.ai/27feb2bb-aeb4-4a83-9fb6-8f3f2a15885e/071275ca-708f-42b0-afe7-78a26028844e_medium.webp',
     'Titanium case, AMOLED display, health tracking.',
     'New Gen'
   ),
@@ -42,7 +42,7 @@ INSERT INTO products (title, price, category, image, description, tag) VALUES
     'Shift-X Mechanical',
     189,
     'input',
-    'https://images.unsplash.com/photo-1541140532154-b024d705b90a?auto=format&fit=crop&w=900&q=60',
+    'https://powergpu.com/cdn/shop/files/image-removebg-preview_2.png?v=1762453240',
     'Hot-swappable tactile switches.',
     'Mechanical'
   ),
@@ -50,7 +50,7 @@ INSERT INTO products (title, price, category, image, description, tag) VALUES
     'Aero Tab S1',
     799,
     'displays',
-    'https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?auto=format&fit=crop&w=900&q=60',
+    'https://cache.getarchive.net/Prod/thumb/cdn12/L3Bob3RvLzIwMTYvMTIvMzEvdGFibGV0LWlwYWQtc2NyZWVuLWNvbXB1dGVyLWNvbW11bmljYXRpb24tMTBhMjc5LTEwMjQuanBn/1024/768/jpg',
     'Ultra-thin tablet with stylus support.',
     'Tablet'
   ),
@@ -58,7 +58,7 @@ INSERT INTO products (title, price, category, image, description, tag) VALUES
     'Vision VR Glass',
     1200,
     'displays',
-    'https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&w=900&q=60',
+    'https://media.easy-peasy.ai/27feb2bb-aeb4-4a83-9fb6-8f3f2a15885e/c5b855c1-1b53-4e1b-ba25-da1a2238e251_medium.webp',
     'Dual micro-OLED displays with eye tracking.',
     'Display'
   ),
@@ -66,7 +66,7 @@ INSERT INTO products (title, price, category, image, description, tag) VALUES
     'Velocity SSD 4TB',
     299,
     'components',
-    'https://images.unsplash.com/photo-1614064641938-3bbee52942c7?auto=format&fit=crop&w=900&q=60',
+    'https://cdn.shopify.com/s/files/1/0228/7629/1136/files/section-4-NP3541U.jpg?v=1749843404',
     'PCIe Gen 5 read speeds up to 12,000 MB/s.',
     'SSD'
   ),
@@ -74,7 +74,7 @@ INSERT INTO products (title, price, category, image, description, tag) VALUES
     'Swift Cursor G3',
     129,
     'input',
-    'https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=60',
+    'https://powergpu.com/cdn/shop/files/image-removebg-preview.png?v=1762453025&width=1346',
     '30K optical sensor, zero-latency wireless.',
     'Cursor'
   ),
@@ -82,7 +82,7 @@ INSERT INTO products (title, price, category, image, description, tag) VALUES
     'Orbital Audio Pro',
     249,
     'audio',
-    'https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=60',
+    'https://www.baudville.com/cdn/shop/files/BV_51497BK_FRONT.jpg?v=1734943050&quot',
     '360° soundstage with voice assistant.',
     'Audio'
   );
