@@ -2,7 +2,7 @@
 
 ciPipeline(
   serviceName: 'database-service',
-  enableDeploy: false,
+  enableDeploy: true,
   dockerRepo: 'cesarnunezh/database-service',
   localImageName: 'database-service:ci-local',
   imageBuildCmd: 'make build',
