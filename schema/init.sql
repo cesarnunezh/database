@@ -10,7 +10,7 @@ CREATE TABLE IF NOT EXISTS products (
   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
--- Create orders table 
+-- Create orders table
 CREATE TABLE IF NOT EXISTS orders (
   id SERIAL PRIMARY KEY,
   product_id INTEGER NOT NULL,
